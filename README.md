@@ -10,5 +10,5 @@ SBIR
   - static
     - index.js
   - templates
-    -index.html
+    - index.html
     ...
